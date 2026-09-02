@@ -2,7 +2,7 @@
 using namespace std;
 
 void resetBallotBox(int &votes) {
-    votes = 0; // Hard-resetting the memory value to 0
+    votes = 0; 
     cout << "System: Ballot box memory wiped inside function." << endl;
 }
 
