@@ -10,6 +10,6 @@ int calculatetotal(int regularvotes,int postalvotes)
 int main()
 {
     int finalcount=calculatetotal(150,50);
-    cout<<"Total vote casts: "<<finalcount<<endl;
+    cout<<"Total vote casts are: "<<finalcount<<endl;
     return 0;
 }
