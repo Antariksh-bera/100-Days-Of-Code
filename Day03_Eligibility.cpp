@@ -4,10 +4,10 @@ using namespace std;
 void checkeligibility(int age)
 {
     if (age>=18){
-        cout<<"Eligible"<<endl;
+        cout<<"Eligible to vote"<<endl;
     }
     else{
-        cout<<"Not Eligible"<<endl;
+        cout<<"Not Eligible to vote"<<endl;
     } 
 }
 
