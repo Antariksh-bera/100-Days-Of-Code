@@ -24,7 +24,7 @@ void pattern12(int n) {
 // 2 3
 // 4 5 6
 void pattern13(int n) {
-    int num = 1; // Continuous Counter
+    int num = 1; 
     for(int i = 1; i <= n; i++) {
         for(int j = 1; j <= i; j++) {
             cout << num << " ";
