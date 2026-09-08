@@ -36,7 +36,7 @@ void pattern13(int n) {
 
 int main() {
     int t;
-    cout << "Enter Rows: ";
+    cout << "Enter Rows:  ";
     cin >> t;
     pattern12(t);
     pattern13(t);
